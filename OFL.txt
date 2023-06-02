@@ -1,4 +1,4 @@
-Copyright 2021 The M+ CHS 1p2p NJC Project Authors (https://github.com/AlloyDome/Mplus-CHS-1p2p-NJC/)
+Copyright 2020 The Empo Sans Project Authors (https://github.com/AlloyDome/Empo-Sans/)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
