@@ -1,8 +1,8 @@
-# M+ CHS 1p2p NJC
-M+ CHS 1p2p NJC 是个人制作的 M+ Fonts<sup>（[新版](https://mplusfonts.github.io) · [旧版](https://mplus-fonts.osdn.jp/)）</sup>的一个非官方的简体中文版本，做工**很糙**。
+# Empo Sans
+Empo Sans 是一个基于 M+ Fonts<sup>（[新版](https://mplusfonts.github.io) · [旧版](https://mplus-fonts.osdn.jp/)）</sup>扩展的简体中文字体，做工**很糙**。
 
 ## 简介
-M+ CHS 1p2p NJC 包括了细体（light）、常规体（regular）和粗体（bold）三种粗细。
+Empo Sans 包括了细体（light）、常规体（regular）和粗体（bold）三种粗细。
 
 ## 汉字部分完成度
 各种粗细的完成度如下：
@@ -22,10 +22,10 @@ M+ CHS 1p2p NJC 包括了细体（light）、常规体（regular）和粗体（b
 *（因为常规体是用算法加粗生成的，所以观感上会比较差）*
 
 ## 西文和数字部分
-M+ CHS 1p2p NJC 的西文和数字部分的字母是原版 M+ 1p 和 2p 的混合：
-* `B`、`D`、`P`、`R` 等带有半圆弧部件的字母来自 1p *（1p 里面的这类字母的半圆弧起笔和落笔有一定角度，不是水平的，与 Myriad Pro 字体有些类似）*
+Empo Sans 的西文和数字部分的字母是原版 M+ 1p 和 2p 的混合：
+* `B`、`D`、`P`、`R` 等带有半圆弧部件的字母来自 1p *（1p 里面的这类字母的半圆弧起笔和落笔有一定角度，不是水平的，与 Myriad 字体有些类似）*
 * `3`、`y` 等字符来自 2p
 * `1`、`f`、`t` 这几个字符比原版的 M+ 要窄一些
 
 ## 假名部分
-M+ CHS 1p2p NJC 的假名来自原版 M+ 2p。`𐂱`（U+100B1）这个假名来自原版 M+ 1p，但做了修改。
+Empo Sans 的假名来自原版 M+ 2p。`𛀁`（U+1B001）这个假名来自原版 M+ 1p，但做了修改。
